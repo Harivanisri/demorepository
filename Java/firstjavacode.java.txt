@@ -1,4 +1,4 @@
 Class java
 {
-
+System.out.println("Helo");
 }
